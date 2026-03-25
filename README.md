@@ -14,14 +14,15 @@ A modern, lightweight Windows desktop application that provides accurate prayer 
 2. Download `prayer_reminder.exe`.
 3. Double-click to run! (No installation required).
 
+## ⚠️ Troubleshooting
+If the app doesn't seem to open when you double-click it, **check your System Tray** (the arrow ^ near your clock). The app is likely already running quietly in the background! 
+
+For any other issues, feel free to contact me on Instagram: **[im.meh.ar](https://instagram.com/im.meh.ar)**.
+
 ## 🛠 Built With
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern UI components.
 * [Aladhan API](https://aladhan.com/prayer-times-api) - Precise timing data.
+* Assisted by **Gemini AI** 🤖
 
 ---
-**Developed by [Mehar](https://github.com/limonisyummy)** 
-
-
-
-
-(and maybe gemini🤧)
+**Developed by [Mehar](https://github.com/limonisyummy)**
